@@ -1,0 +1,13 @@
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\obj\Debug\netcoreapp3.1\LAB5_5IfStatements.csprojAssemblyReference.cache
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\obj\Debug\netcoreapp3.1\LAB5_5IfStatements.AssemblyInfoInputs.cache
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\obj\Debug\netcoreapp3.1\LAB5_5IfStatements.AssemblyInfo.cs
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\obj\Debug\netcoreapp3.1\LAB5_5IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\bin\Debug\netcoreapp3.1\LAB5_5IfStatements.exe
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\bin\Debug\netcoreapp3.1\LAB5_5IfStatements.deps.json
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\bin\Debug\netcoreapp3.1\LAB5_5IfStatements.runtimeconfig.json
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\bin\Debug\netcoreapp3.1\LAB5_5IfStatements.runtimeconfig.dev.json
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\bin\Debug\netcoreapp3.1\LAB5_5IfStatements.dll
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\bin\Debug\netcoreapp3.1\LAB5_5IfStatements.pdb
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\obj\Debug\netcoreapp3.1\LAB5_5IfStatements.dll
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\obj\Debug\netcoreapp3.1\LAB5_5IfStatements.pdb
+C:\Users\nalle\source\repos\LAB5_5IfStatements\LAB5_5IfStatements\obj\Debug\netcoreapp3.1\LAB5_5IfStatements.genruntimeconfig.cache
